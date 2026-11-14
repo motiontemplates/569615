@@ -1,7 +1,7 @@
 # Dark Dimensional Stage · Multi-screen Story · Portrait · MotionGit .motion
 
 Template and full package: https://motiongit.com/@adunext/template-03-native-portrait
-Version: 2.7.18-alpha.10
+Version: 2.7.18-alpha.12
 Demo available. Check the official page for current download availability.
 
 Declared runtime profile: adu-authored-unit/1.
