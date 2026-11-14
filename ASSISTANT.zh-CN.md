@@ -3,7 +3,7 @@
 用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。
 
 模板与完整下载: https://motiongit.com/@adunext/template-03-native-portrait
-版本: 2.7.18-alpha.12
+版本: 2.7.18-alpha.13
 Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料
